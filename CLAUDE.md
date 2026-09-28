@@ -111,9 +111,9 @@ Quando a pessoa pedir um site:
 1. **Confira os arquivos.** Logo em `marca/`, fotos em `fotos/`, vídeo do topo em `video/`. Se faltar algo, pergunte antes de começar. Não invente foto nem vídeo.
 2. **Design DNA primeiro.** Abra o site de referência no navegador com o `playwright-core`, tire prints de cada seção, no computador e no celular, e extraia o DNA: fontes, cores, espaçamento e movimento da rolagem. Mostre um resumo curto para a pessoa.
 3. **Frontend Design e Taste Skill** decidem o acabamento: tipografia, respiro, quanto o site ousa e quanto se mexe.
-4. **Scrollcraft constrói** a página guiada pela rolagem e confere o resultado no navegador, no computador e no celular. Ela já prepara o vídeo para andar com a rolagem.
+4. **Scrollcraft constrói** a página guiada pela rolagem e confere o resultado no navegador, no computador e no celular.
 5. **Logo com fundo claro:** deixe o fundo transparente para usar em cima das cores do site.
-6. **Vídeo do topo:** avança conforme a pessoa rola a página, sem som.
+6. **Vídeo do topo:** roda sozinho em loop, sem som, e pausa quando sai da tela.
 7. No fim, abra o site para a pessoa ver e mostre também os prints do celular.
 
 Regras:
